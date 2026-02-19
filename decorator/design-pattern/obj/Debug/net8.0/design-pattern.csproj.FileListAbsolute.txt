@@ -1,0 +1,14 @@
+/home/chan/OOAD-assignment/design-pattern/design-pattern/bin/Debug/net8.0/design-pattern
+/home/chan/OOAD-assignment/design-pattern/design-pattern/bin/Debug/net8.0/design-pattern.deps.json
+/home/chan/OOAD-assignment/design-pattern/design-pattern/bin/Debug/net8.0/design-pattern.runtimeconfig.json
+/home/chan/OOAD-assignment/design-pattern/design-pattern/bin/Debug/net8.0/design-pattern.dll
+/home/chan/OOAD-assignment/design-pattern/design-pattern/bin/Debug/net8.0/design-pattern.pdb
+/home/chan/OOAD-assignment/design-pattern/design-pattern/obj/Debug/net8.0/design-pattern.GeneratedMSBuildEditorConfig.editorconfig
+/home/chan/OOAD-assignment/design-pattern/design-pattern/obj/Debug/net8.0/design-pattern.AssemblyInfoInputs.cache
+/home/chan/OOAD-assignment/design-pattern/design-pattern/obj/Debug/net8.0/design-pattern.AssemblyInfo.cs
+/home/chan/OOAD-assignment/design-pattern/design-pattern/obj/Debug/net8.0/design-pattern.csproj.CoreCompileInputs.cache
+/home/chan/OOAD-assignment/design-pattern/design-pattern/obj/Debug/net8.0/design-pattern.dll
+/home/chan/OOAD-assignment/design-pattern/design-pattern/obj/Debug/net8.0/refint/design-pattern.dll
+/home/chan/OOAD-assignment/design-pattern/design-pattern/obj/Debug/net8.0/design-pattern.pdb
+/home/chan/OOAD-assignment/design-pattern/design-pattern/obj/Debug/net8.0/design-pattern.genruntimeconfig.cache
+/home/chan/OOAD-assignment/design-pattern/design-pattern/obj/Debug/net8.0/ref/design-pattern.dll
