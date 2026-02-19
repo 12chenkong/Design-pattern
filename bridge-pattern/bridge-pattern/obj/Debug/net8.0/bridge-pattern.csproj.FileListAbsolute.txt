@@ -1,0 +1,15 @@
+/home/chan/design-pattern/bridge-pattern/bridge-pattern/bin/Debug/net8.0/bridge-pattern
+/home/chan/design-pattern/bridge-pattern/bridge-pattern/bin/Debug/net8.0/bridge-pattern.deps.json
+/home/chan/design-pattern/bridge-pattern/bridge-pattern/bin/Debug/net8.0/bridge-pattern.runtimeconfig.json
+/home/chan/design-pattern/bridge-pattern/bridge-pattern/bin/Debug/net8.0/bridge-pattern.dll
+/home/chan/design-pattern/bridge-pattern/bridge-pattern/bin/Debug/net8.0/bridge-pattern.pdb
+/home/chan/design-pattern/bridge-pattern/bridge-pattern/obj/Debug/net8.0/bridge-pattern.GeneratedMSBuildEditorConfig.editorconfig
+/home/chan/design-pattern/bridge-pattern/bridge-pattern/obj/Debug/net8.0/bridge-pattern.AssemblyInfoInputs.cache
+/home/chan/design-pattern/bridge-pattern/bridge-pattern/obj/Debug/net8.0/bridge-pattern.AssemblyInfo.cs
+/home/chan/design-pattern/bridge-pattern/bridge-pattern/obj/Debug/net8.0/bridge-pattern.csproj.CoreCompileInputs.cache
+/home/chan/design-pattern/bridge-pattern/bridge-pattern/obj/Debug/net8.0/bridge-pattern.sourcelink.json
+/home/chan/design-pattern/bridge-pattern/bridge-pattern/obj/Debug/net8.0/bridge-pattern.dll
+/home/chan/design-pattern/bridge-pattern/bridge-pattern/obj/Debug/net8.0/refint/bridge-pattern.dll
+/home/chan/design-pattern/bridge-pattern/bridge-pattern/obj/Debug/net8.0/bridge-pattern.pdb
+/home/chan/design-pattern/bridge-pattern/bridge-pattern/obj/Debug/net8.0/bridge-pattern.genruntimeconfig.cache
+/home/chan/design-pattern/bridge-pattern/bridge-pattern/obj/Debug/net8.0/ref/bridge-pattern.dll
