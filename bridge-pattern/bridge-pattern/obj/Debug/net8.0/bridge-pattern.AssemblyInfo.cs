@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("bridge-pattern")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b3e43a0ddcb3a6bccf5a27d66ae72ac01df4c6cc")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d4681b4f69ae193de283e5b73f16ec52e5a73704")]
 [assembly: System.Reflection.AssemblyProductAttribute("bridge-pattern")]
 [assembly: System.Reflection.AssemblyTitleAttribute("bridge-pattern")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
