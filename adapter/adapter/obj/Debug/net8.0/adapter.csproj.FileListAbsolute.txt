@@ -1,0 +1,15 @@
+/home/chan/design-pattern/adapter/adapter/bin/Debug/net8.0/adapter
+/home/chan/design-pattern/adapter/adapter/bin/Debug/net8.0/adapter.deps.json
+/home/chan/design-pattern/adapter/adapter/bin/Debug/net8.0/adapter.runtimeconfig.json
+/home/chan/design-pattern/adapter/adapter/bin/Debug/net8.0/adapter.dll
+/home/chan/design-pattern/adapter/adapter/bin/Debug/net8.0/adapter.pdb
+/home/chan/design-pattern/adapter/adapter/obj/Debug/net8.0/adapter.GeneratedMSBuildEditorConfig.editorconfig
+/home/chan/design-pattern/adapter/adapter/obj/Debug/net8.0/adapter.AssemblyInfoInputs.cache
+/home/chan/design-pattern/adapter/adapter/obj/Debug/net8.0/adapter.AssemblyInfo.cs
+/home/chan/design-pattern/adapter/adapter/obj/Debug/net8.0/adapter.csproj.CoreCompileInputs.cache
+/home/chan/design-pattern/adapter/adapter/obj/Debug/net8.0/adapter.sourcelink.json
+/home/chan/design-pattern/adapter/adapter/obj/Debug/net8.0/adapter.dll
+/home/chan/design-pattern/adapter/adapter/obj/Debug/net8.0/refint/adapter.dll
+/home/chan/design-pattern/adapter/adapter/obj/Debug/net8.0/adapter.pdb
+/home/chan/design-pattern/adapter/adapter/obj/Debug/net8.0/adapter.genruntimeconfig.cache
+/home/chan/design-pattern/adapter/adapter/obj/Debug/net8.0/ref/adapter.dll
