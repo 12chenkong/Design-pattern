@@ -1,3 +1,5 @@
+# 📘 Design Pattern Research
+
 This project presents my research on Design Patterns in the context of Object-Oriented Analysis and Design (OOAD). Design patterns are general, reusable solutions to common problems that occur in object-oriented software design. They provide best practices that help developers create flexible, maintainable, and scalable systems.
 
 Through this research, I explored how design patterns improve code structure, promote reusability, and support important OOP principles such as encapsulation, abstraction, inheritance, and polymorphism. I also studied how patterns are categorized into creational, structural, and behavioral types, and how each category solves different kinds of design problems.
