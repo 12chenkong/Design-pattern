@@ -1,0 +1,15 @@
+/home/chan/design-pattern/prototype/prototype/bin/Debug/net8.0/prototype
+/home/chan/design-pattern/prototype/prototype/bin/Debug/net8.0/prototype.deps.json
+/home/chan/design-pattern/prototype/prototype/bin/Debug/net8.0/prototype.runtimeconfig.json
+/home/chan/design-pattern/prototype/prototype/bin/Debug/net8.0/prototype.dll
+/home/chan/design-pattern/prototype/prototype/bin/Debug/net8.0/prototype.pdb
+/home/chan/design-pattern/prototype/prototype/obj/Debug/net8.0/prototype.GeneratedMSBuildEditorConfig.editorconfig
+/home/chan/design-pattern/prototype/prototype/obj/Debug/net8.0/prototype.AssemblyInfoInputs.cache
+/home/chan/design-pattern/prototype/prototype/obj/Debug/net8.0/prototype.AssemblyInfo.cs
+/home/chan/design-pattern/prototype/prototype/obj/Debug/net8.0/prototype.csproj.CoreCompileInputs.cache
+/home/chan/design-pattern/prototype/prototype/obj/Debug/net8.0/prototype.sourcelink.json
+/home/chan/design-pattern/prototype/prototype/obj/Debug/net8.0/prototype.dll
+/home/chan/design-pattern/prototype/prototype/obj/Debug/net8.0/refint/prototype.dll
+/home/chan/design-pattern/prototype/prototype/obj/Debug/net8.0/prototype.pdb
+/home/chan/design-pattern/prototype/prototype/obj/Debug/net8.0/prototype.genruntimeconfig.cache
+/home/chan/design-pattern/prototype/prototype/obj/Debug/net8.0/ref/prototype.dll

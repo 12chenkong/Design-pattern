@@ -1,0 +1,15 @@
+/home/chan/design-pattern/adapter-demo/adapter-demo/bin/Debug/net8.0/adapter-demo
+/home/chan/design-pattern/adapter-demo/adapter-demo/bin/Debug/net8.0/adapter-demo.deps.json
+/home/chan/design-pattern/adapter-demo/adapter-demo/bin/Debug/net8.0/adapter-demo.runtimeconfig.json
+/home/chan/design-pattern/adapter-demo/adapter-demo/bin/Debug/net8.0/adapter-demo.dll
+/home/chan/design-pattern/adapter-demo/adapter-demo/bin/Debug/net8.0/adapter-demo.pdb
+/home/chan/design-pattern/adapter-demo/adapter-demo/obj/Debug/net8.0/adapter-demo.GeneratedMSBuildEditorConfig.editorconfig
+/home/chan/design-pattern/adapter-demo/adapter-demo/obj/Debug/net8.0/adapter-demo.AssemblyInfoInputs.cache
+/home/chan/design-pattern/adapter-demo/adapter-demo/obj/Debug/net8.0/adapter-demo.AssemblyInfo.cs
+/home/chan/design-pattern/adapter-demo/adapter-demo/obj/Debug/net8.0/adapter-demo.csproj.CoreCompileInputs.cache
+/home/chan/design-pattern/adapter-demo/adapter-demo/obj/Debug/net8.0/adapter-demo.sourcelink.json
+/home/chan/design-pattern/adapter-demo/adapter-demo/obj/Debug/net8.0/adapter-demo.dll
+/home/chan/design-pattern/adapter-demo/adapter-demo/obj/Debug/net8.0/refint/adapter-demo.dll
+/home/chan/design-pattern/adapter-demo/adapter-demo/obj/Debug/net8.0/adapter-demo.pdb
+/home/chan/design-pattern/adapter-demo/adapter-demo/obj/Debug/net8.0/adapter-demo.genruntimeconfig.cache
+/home/chan/design-pattern/adapter-demo/adapter-demo/obj/Debug/net8.0/ref/adapter-demo.dll
